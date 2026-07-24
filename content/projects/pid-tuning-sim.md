@@ -1,17 +1,15 @@
 ---
-title: "PID Tuning Simulator"
-date: "2026-06-15"
-links:
-  - label: "code"
-    url: "https://github.com/yourhandle/pid-tuning-sim"
+title: "Lorenz System Simulation"
+date: "2026-05-01"
 ---
 
-**What:** A small MATLAB/Simulink model for visualizing how P, I, and D gains
-individually affect overshoot, rise time, and settling time on a second-order
-plant.
+**What:** A MATLAB animation of the Lorenz system — the classic
+three-variable set of nonlinear differential equations known for
+producing chaotic, non-repeating trajectories (the "butterfly" attractor).
 
-**Why:** Wanted an intuition-building tool rather than just reading the
-transfer function math.
+**Why:** Wanted to get hands-on intuition for chaotic dynamical systems —
+how small changes in initial conditions send trajectories in completely
+different directions, even though the system is fully deterministic.
 
-**Result:** Interactive sliders for Kp/Ki/Kd with a live step-response plot.
-Replace this with your real project write-up.
+**Result:** A 3D animated trajectory through the attractor. Not yet
+uploaded publicly — will link the code here once it's cleaned up.

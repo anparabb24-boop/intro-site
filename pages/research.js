@@ -17,10 +17,14 @@ export default function Research({ projects, reading }) {
       </div>
 
       <p>
-        Current interests: control theory, dynamical systems, applied linear algebra and
-        optimization. Working mostly in MATLAB/Simulink and Python.
-        <br />
-        [Edit this block in <code>pages/research.js</code> as your interests sharpen.]
+        Current interests: control theory, nonlinear/chaotic dynamical systems, and
+        electrodynamics — mostly explored through simulation and visualization rather
+        than pure derivation. Working in Python (NumPy, Matplotlib) and MATLAB/Simulink.
+      </p>
+        
+      <p className="mono">
+        Also currently working on a research paper — not sharing details until it's
+        published, but it'll show up here when it is.
       </p>
 
       <hr className="divider" />
