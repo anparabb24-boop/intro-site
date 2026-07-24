@@ -9,25 +9,38 @@ export default function About() {
         <h2>About</h2>
       </div>
 
-
+      <p>
+        I'm a third-year BTech Electrical Engineering student at VJTI, Mumbai, 19 years
+        old. Most of my time outside coursework goes into two things: control systems
+        and mathematics, and badminton.
+      </p>
 
       <h3>Engineering</h3>
       <p>
-        I am a 3rd-year Electrical Engineering student at VJTI Mumbai, driven by a fascination with the mathematical mechanics that govern dynamic systems. My technical focus lies at the intersection of Control Systems, Optimization Theory, and AI/ML for Science—exploring how mathematical models and machine learning can solve complex physical problems, optimize performance, and drive automation.
+        What draws me to control systems specifically is the math itself — the
+        structure of it, the way stability, feedback, and dynamics all sit on precise,
+        provable ground. I've spent time exploring this through simulation rather than
+        just derivation: modeling the Lorenz system to get an intuition for chaotic
+        dynamics, and building electrodynamics simulations to actually watch radiation
+        fields propagate instead of just working through the equations on paper.
+        I'm currently also working on a research paper — more on that once it's
+        published.
       </p>
-
-      <p>Whether analyzing transformation matrices, modeling feedback loops, or implementing computer vision models, I approach engineering with a commitment to analytical depth and technical precision.</p>
 
       <h3>Badminton</h3>
       <p>
-        Discipline is multi-dimensional. As a competitive badminton player who has competed in state-level tournaments, I view sport through the same lens as engineering: dynamic strategy, instantaneous decision-making, and continuous optimization under pressure.
+        I've competed for 10 years, reaching state-level quarterfinals on multiple
+        occasions. I don't compete on the tournament circuit anymore, but the sport is
+        still a serious part of my routine — I train regularly and work on
+        conditioning in the gym.
       </p>
-
-      <p>My week is structured around high-intensity badminton sessions and rigorous strength training at the gym. Athletic training isn't just a hobby—it's the foundation of my focus, resilience, and drive.</p>
 
       <h3>Why both</h3>
       <p>
-        I believe that the mindset of an athlete and the analytical rigor of an engineer build on each other. I am constantly pushing the boundaries of what I can build, learn, and achieve—synthesizing high-level academics with physical excellence to continuously evolve into the best version of myself.
+        I won't pretend there's some grand unifying theory connecting the two — they're
+        just both things I take seriously, for their own reasons. If anything carries
+        over, it's less a specific mindset and more just the habit of showing up and
+        putting in the repetition, whether that's on the court or in a proof.
       </p>
 
       <hr className="divider" />
