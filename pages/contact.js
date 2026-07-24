@@ -17,7 +17,7 @@ export default function Contact() {
         <li><a href="mailto:anparab_b24@ee.vjti.ac.in">anparab_b24@ee.vjti.ac.in</a></li>
         <li><a href="https://linkedin.com/in/arya-parab-0a7418329">LinkedIn →</a></li>
         <li><a href="https://github.com/anparabb24-boop">GitHub →</a></li>
-        <li><a href="/intro-site/public/resume.pdf">Resume (PDF) →</a></li>
+        <li><a href="/resume.pdf">Resume (PDF) →</a></li>
       </ul>
 
     </Layout>
