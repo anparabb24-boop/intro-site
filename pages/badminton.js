@@ -17,10 +17,10 @@ export default function Badminton({ training, videos }) {
       </div>
 
       <p>
-        [Playing history — years active competitively, level reached, state-level
-        achievements.] I no longer compete on the tournament circuit, but badminton is
-        still a serious part of my routine — I train, play, and work on conditioning in
-        the gym regularly.
+        Ten years as a competitive player, reaching state-level tournaments and getting
+        to the quarterfinals on multiple occasions. I no longer compete on the tournament
+        circuit, but badminton is still a serious part of my routine — I train, play, and
+        work on conditioning in the gym regularly.
       </p>
 
       <hr className="divider" />
