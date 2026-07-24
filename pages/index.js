@@ -10,9 +10,9 @@ export default function Home() {
         <h1>Arya Parab</h1>
         <p className="lede">
           Third-year BTech Electrical Engineering student at VJTI, working toward
-          research in control systems and applied mathematics. Former state-level
-          badminton player — still training, still competitive in spirit, just not on
-          the tournament circuit anymore.
+          research in control systems and applied mathematics. Ten years a
+          competitive badminton player, reaching state-level quarterfinals — still
+          training, just not on the tournament circuit anymore.
         </p>
         <SettleCurve variant="hero" />
         <p className="mono">a system, disturbed, finding its way back to steady</p>

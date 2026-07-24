@@ -11,8 +11,7 @@ export default function About() {
 
       <p>
         I'm a third-year BTech Electrical Engineering student at VJTI, Mumbai, 19 years
-        old. Most of my time outside coursework goes into two things: control systems
-        and mathematics, and badminton.
+        old. Most of my time outside coursework goes into 3 things: control systems, mathematics, and badminton.
       </p>
 
       <h3>Engineering</h3>
