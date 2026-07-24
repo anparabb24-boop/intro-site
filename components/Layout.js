@@ -11,7 +11,7 @@ const NAV = [
   { href: '/contact', label: 'Contact' },
 ];
 
-const SITE_NAME = 'Your Name';
+const SITE_NAME = 'Arya Parab';
 
 export default function Layout({ children, title, description }) {
   const router = useRouter();

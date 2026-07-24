@@ -16,25 +16,19 @@ export default function About() {
 
       <h3>Engineering</h3>
       <p>
-        [What pulled you toward EE, then specifically toward control systems and applied
-        math. Mention any sub-areas you're drawn to — e.g. nonlinear control, estimation
-        theory, optimization, robotics — whatever's actually true for you right now. This
-        will evolve as your interests sharpen, and that's fine.]
+        [I am a 3rd-year Electrical Engineering student at VJTI Mumbai, driven by a fascination with the mathematical mechanics that govern dynamic systems. My technical focus lies at the intersection of Control Systems, Optimization Theory, and AI/ML for Science—exploring how mathematical models and machine learning can solve complex physical problems, optimize performance, and drive automation.
+Whether analyzing transformation matrices, modeling feedback loops, or implementing computer vision models, I approach engineering with a commitment to analytical depth and technical precision.]
       </p>
 
       <h3>Badminton</h3>
       <p>
-        [Your competitive history — years playing, state-level achievement, what you
-        reached. Then, plainly: you no longer compete, but you train and play seriously —
-        badminton plus gym conditioning is a real part of your routine, not a footnote.]
+        [Discipline is multi-dimensional. As a competitive badminton player who has competed in state-level tournaments, I view sport through the same lens as engineering: dynamic strategy, instantaneous decision-making, and continuous optimization under pressure.
+My week is structured around high-intensity badminton sessions and rigorous strength training at the gym. Athletic training isn't just a hobby—it's the foundation of my focus, resilience, and drive.]
       </p>
 
       <h3>Why both</h3>
       <p>
-        [The paragraph that makes people remember you. Don't force a metaphor — if there's
-        a genuine connection between how you approach training and how you approach
-        problem-solving, say it plainly. If not, it's fine to just present both as two
-        things you take seriously.]
+        [I believe that the mindset of an athlete and the analytical rigor of an engineer build on each other. I am constantly pushing the boundaries of what I can build, learn, and achieve—synthesizing high-level academics with physical excellence to continuously evolve into the best version of myself.]
       </p>
 
       <hr className="divider" />

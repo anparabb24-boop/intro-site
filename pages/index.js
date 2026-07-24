@@ -7,7 +7,7 @@ export default function Home() {
     <Layout title="Home">
       <section className="hero">
         <p className="eyebrow"><SettleCurve variant="mark" /> Electrical Engineering · VJTI</p>
-        <h1>Your Name</h1>
+        <h1>Arya Parab</h1>
         <p className="lede">
           Third-year BTech Electrical Engineering student at VJTI, working toward
           research in control systems and applied mathematics. Former state-level
